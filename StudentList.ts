@@ -54,18 +54,23 @@ export class StudentList {
         return "Student id doesnt exists";
     }
 
-    updateCourse(id: string, courseName: string) {
-
+    removeStudent(id: string) {
+        // this.students.splice(index, 1)
     }
 
-    updateCollege(id: string, collegeName: string) {
-
+    updateCollege(id: string, newCollegeName: string) {
+        // find student using id
     }
 
-    updateAddress(id: string, address: string) {
-
+    updateAddress(id: string, newAddress: string) {
+        // find student using id
     }
 
-    // create method and return number of students
-    // delete one student and return list of students, use splice method (index, 1)
+    updateCourse(id: string, newCourse: string) {
+        // find student using id
+    }
+
+    updateGender(id: string, newGender: string) {
+        // find student using id
+    }
 }
