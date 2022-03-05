@@ -61,15 +61,16 @@ export class StudentList {
 
     updateCollege(id: string, newCollegeName: string) {
         // find student using id
-        sdfsdf
     }
 
     updateAddress(id: string, newAddress: string) {
         // find student using id
+        asdasdasd
     }
 
     updateCourse(id: string, newCourse: string) {
         // find student using id
+        asdasddas
     }
 
     updateGender(id: string, newGender: string) {
