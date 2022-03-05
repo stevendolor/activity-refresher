@@ -56,10 +56,12 @@ export class StudentList {
 
     removeStudent(id: string) {
         // this.students.splice(index, 1)
+        dsfsdf
     }
 
     updateCollege(id: string, newCollegeName: string) {
         // find student using id
+        sdfsdf
     }
 
     updateAddress(id: string, newAddress: string) {
